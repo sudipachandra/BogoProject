@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22088" started-at="2022-05-31T13:53:16 IST" finished-at="2022-05-31T13:53:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22088" started-at="2022-05-31T13:53:16 IST" finished-at="2022-05-31T13:53:38 IST">
+      <class name="BogoProject.BogoProject.LoginTest">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:BogoProject.BogoProject.LoginTest@15d9bc04]" name="startTest" is-config="true" duration-ms="9133" started-at="2022-05-31T13:53:16 IST" finished-at="2022-05-31T13:53:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="loginTesting()[pri:0, instance:BogoProject.BogoProject.LoginTest@15d9bc04]" name="loginTesting" duration-ms="8849" started-at="2022-05-31T13:53:25 IST" finished-at="2022-05-31T13:53:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTesting -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:BogoProject.BogoProject.LoginTest@15d9bc04]" name="endTest" is-config="true" duration-ms="4085" started-at="2022-05-31T13:53:34 IST" finished-at="2022-05-31T13:53:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- BogoProject.BogoProject.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
